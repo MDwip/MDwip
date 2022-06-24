@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monodwip Das</h1>
-🌱 I’m currently learning **Core Java**
+🌱 I’m currently focusing on **SQL, Python, Tableau, Power BI**
 
 📫 How to reach me **monodwipdas33@gmail.com**
 
